@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.3",
+    "retry-axios": "^2.6.0"
+  }
+}
